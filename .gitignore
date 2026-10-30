@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.*
+.build/
+__pycache__/
+*.pyc
+work/
+outputs/
+backups/
+generated_images/
+test/run-*/

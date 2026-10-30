@@ -1,0 +1,4 @@
+interface:
+  display_name: "Finder 图标定制"
+  short_description: "参考 Finder 轮廓生成透明图标，确认后本地替换并保留恢复备份"
+  default_prompt: "使用 $finder-icon，根据 Finder 参考图和我的描述定制图标；若风格不明确，先给文字方向让我选择，再生成正面透明图标，确认成品和目标后替换。"
